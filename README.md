@@ -17,3 +17,7 @@ python extract_table.py
 This will process all PDFs in the pdfs/ folder and save the extracted tables in excel_output/.
 Demo
 A short presentation and video demo are included in the demo/ folder to explain the approach and show the script in action.
+
+
+!ADDITIONAL TOOL- WEB TABLE SCRAPING EXTENSION!
+https://github.com/Vandana56s/web_table_extract_extension.git
